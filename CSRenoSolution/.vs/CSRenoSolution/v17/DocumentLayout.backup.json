@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BB79DC-A937-4955-AE2E-4A348640E32E}|RenoSystem\\RenoSystem.csproj|c:\\users\\admin\\source\\repos\\cpsc-1517-may-oe01-mc-exercise-1-2-spencerwright1\\csrenosolution\\renosystem\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BB79DC-A937-4955-AE2E-4A348640E32E}|RenoSystem\\RenoSystem.csproj|solutionrelative:renosystem\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BB79DC-A937-4955-AE2E-4A348640E32E}|RenoSystem\\RenoSystem.csproj|c:\\users\\admin\\source\\repos\\cpsc-1517-may-oe01-mc-exercise-1-2-spencerwright1\\csrenosolution\\renosystem\\models\\dbversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BB79DC-A937-4955-AE2E-4A348640E32E}|RenoSystem\\RenoSystem.csproj|solutionrelative:renosystem\\models\\dbversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BB79DC-A937-4955-AE2E-4A348640E32E}|RenoSystem\\RenoSystem.csproj|c:\\users\\admin\\source\\repos\\cpsc-1517-may-oe01-mc-exercise-1-2-spencerwright1\\csrenosolution\\renosystem\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BB79DC-A937-4955-AE2E-4A348640E32E}|RenoSystem\\RenoSystem.csproj|solutionrelative:renosystem\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BB79DC-A937-4955-AE2E-4A348640E32E}|RenoSystem\\RenoSystem.csproj|c:\\users\\admin\\source\\repos\\cpsc-1517-may-oe01-mc-exercise-1-2-spencerwright1\\csrenosolution\\renosystem\\dal\\renoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BB79DC-A937-4955-AE2E-4A348640E32E}|RenoSystem\\RenoSystem.csproj|solutionrelative:renosystem\\dal\\renoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BB79DC-A937-4955-AE2E-4A348640E32E}|RenoSystem\\RenoSystem.csproj|c:\\users\\admin\\source\\repos\\cpsc-1517-may-oe01-mc-exercise-1-2-spencerwright1\\csrenosolution\\renosystem\\bll\\supplyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BB79DC-A937-4955-AE2E-4A348640E32E}|RenoSystem\\RenoSystem.csproj|solutionrelative:renosystem\\bll\\supplyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BB79DC-A937-4955-AE2E-4A348640E32E}|RenoSystem\\RenoSystem.csproj|c:\\users\\admin\\source\\repos\\cpsc-1517-may-oe01-mc-exercise-1-2-spencerwright1\\csrenosolution\\renosystem\\bll\\jobservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BB79DC-A937-4955-AE2E-4A348640E32E}|RenoSystem\\RenoSystem.csproj|solutionrelative:renosystem\\bll\\jobservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90C2A5F-3565-4414-ACEB-D9B5EC7682F7}|RenoTracker\\RenoTracker.csproj|c:\\users\\admin\\source\\repos\\cpsc-1517-may-oe01-mc-exercise-1-2-spencerwright1\\csrenosolution\\renotracker\\components\\pages\\query.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90C2A5F-3565-4414-ACEB-D9B5EC7682F7}|RenoTracker\\RenoTracker.csproj|solutionrelative:renotracker\\components\\pages\\query.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90C2A5F-3565-4414-ACEB-D9B5EC7682F7}|RenoTracker\\RenoTracker.csproj|c:\\users\\admin\\source\\repos\\cpsc-1517-may-oe01-mc-exercise-1-2-spencerwright1\\csrenosolution\\renotracker\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90C2A5F-3565-4414-ACEB-D9B5EC7682F7}|RenoTracker\\RenoTracker.csproj|solutionrelative:renotracker\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BB79DC-A937-4955-AE2E-4A348640E32E}|RenoSystem\\RenoSystem.csproj|c:\\users\\admin\\source\\repos\\cpsc-1517-may-oe01-mc-exercise-1-2-spencerwright1\\csrenosolution\\renosystem\\models\\labour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BB79DC-A937-4955-AE2E-4A348640E32E}|RenoSystem\\RenoSystem.csproj|solutionrelative:renosystem\\models\\labour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BB79DC-A937-4955-AE2E-4A348640E32E}|RenoSystem\\RenoSystem.csproj|c:\\users\\admin\\source\\repos\\cpsc-1517-may-oe01-mc-exercise-1-2-spencerwright1\\csrenosolution\\renosystem\\models\\supply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BB79DC-A937-4955-AE2E-4A348640E32E}|RenoSystem\\RenoSystem.csproj|solutionrelative:renosystem\\models\\supply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BB79DC-A937-4955-AE2E-4A348640E32E}|RenoSystem\\RenoSystem.csproj|c:\\users\\admin\\source\\repos\\cpsc-1517-may-oe01-mc-exercise-1-2-spencerwright1\\csrenosolution\\renosystem\\renosystemextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BB79DC-A937-4955-AE2E-4A348640E32E}|RenoSystem\\RenoSystem.csproj|solutionrelative:renosystem\\renosystemextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90C2A5F-3565-4414-ACEB-D9B5EC7682F7}|RenoTracker\\RenoTracker.csproj|c:\\users\\admin\\source\\repos\\cpsc-1517-may-oe01-mc-exercise-1-2-spencerwright1\\csrenosolution\\renotracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90C2A5F-3565-4414-ACEB-D9B5EC7682F7}|RenoTracker\\RenoTracker.csproj|solutionrelative:renotracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90C2A5F-3565-4414-ACEB-D9B5EC7682F7}|RenoTracker\\RenoTracker.csproj|c:\\users\\admin\\source\\repos\\cpsc-1517-may-oe01-mc-exercise-1-2-spencerwright1\\csrenosolution\\renotracker\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90C2A5F-3565-4414-ACEB-D9B5EC7682F7}|RenoTracker\\RenoTracker.csproj|solutionrelative:renotracker\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90C2A5F-3565-4414-ACEB-D9B5EC7682F7}|RenoTracker\\RenoTracker.csproj|c:\\users\\admin\\source\\repos\\cpsc-1517-may-oe01-mc-exercise-1-2-spencerwright1\\csrenosolution\\renotracker\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A90C2A5F-3565-4414-ACEB-D9B5EC7682F7}|RenoTracker\\RenoTracker.csproj|solutionrelative:renotracker\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90C2A5F-3565-4414-ACEB-D9B5EC7682F7}|RenoTracker\\RenoTracker.csproj|c:\\users\\admin\\source\\repos\\cpsc-1517-may-oe01-mc-exercise-1-2-spencerwright1\\csrenosolution\\renotracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A90C2A5F-3565-4414-ACEB-D9B5EC7682F7}|RenoTracker\\RenoTracker.csproj|solutionrelative:renotracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BB79DC-A937-4955-AE2E-4A348640E32E}|RenoSystem\\RenoSystem.csproj|c:\\users\\admin\\source\\repos\\cpsc-1517-may-oe01-mc-exercise-1-2-spencerwright1\\csrenosolution\\renosystem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BB79DC-A937-4955-AE2E-4A348640E32E}|RenoSystem\\RenoSystem.csproj|solutionrelative:renosystem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoTracker\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "RenoTracker\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoTracker\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "RenoTracker\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T05:15:35.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoTracker\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "RenoTracker\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoTracker\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "RenoTracker\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T05:15:10.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Supply.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoSystem\\Models\\Supply.cs",
+              "RelativeDocumentMoniker": "RenoSystem\\Models\\Supply.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoSystem\\Models\\Supply.cs",
+              "RelativeToolTip": "RenoSystem\\Models\\Supply.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:00:26.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Labour.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoSystem\\Models\\Labour.cs",
+              "RelativeDocumentMoniker": "RenoSystem\\Models\\Labour.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoSystem\\Models\\Labour.cs",
+              "RelativeToolTip": "RenoSystem\\Models\\Labour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:00:21.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoSystem\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "RenoSystem\\Models\\Job.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoSystem\\Models\\Job.cs",
+              "RelativeToolTip": "RenoSystem\\Models\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:00:12.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbVersion.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoSystem\\Models\\DbVersion.cs",
+              "RelativeDocumentMoniker": "RenoSystem\\Models\\DbVersion.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoSystem\\Models\\DbVersion.cs",
+              "RelativeToolTip": "RenoSystem\\Models\\DbVersion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T04:59:41.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoSystem\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "RenoSystem\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoSystem\\Models\\Client.cs",
+              "RelativeToolTip": "RenoSystem\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T04:54:31.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoTracker\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "RenoTracker\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoTracker\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "RenoTracker\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T04:51:24.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Query.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoTracker\\Components\\Pages\\Query.razor",
+              "RelativeDocumentMoniker": "RenoTracker\\Components\\Pages\\Query.razor",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoTracker\\Components\\Pages\\Query.razor",
+              "RelativeToolTip": "RenoTracker\\Components\\Pages\\Query.razor",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T04:50:24.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoTracker\\Program.cs",
+              "RelativeDocumentMoniker": "RenoTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoTracker\\Program.cs",
+              "RelativeToolTip": "RenoTracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T04:49:31.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "RenoTracker\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoTracker\\appsettings.json",
+              "RelativeToolTip": "RenoTracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-02T04:48:58.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RenoSystemExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoSystem\\RenoSystemExtentions.cs",
+              "RelativeDocumentMoniker": "RenoSystem\\RenoSystemExtentions.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoSystem\\RenoSystemExtentions.cs",
+              "RelativeToolTip": "RenoSystem\\RenoSystemExtentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T04:47:06.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SupplyServices.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoSystem\\BLL\\SupplyServices.cs",
+              "RelativeDocumentMoniker": "RenoSystem\\BLL\\SupplyServices.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoSystem\\BLL\\SupplyServices.cs",
+              "RelativeToolTip": "RenoSystem\\BLL\\SupplyServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T04:45:52.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobServices.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoSystem\\BLL\\JobServices.cs",
+              "RelativeDocumentMoniker": "RenoSystem\\BLL\\JobServices.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoSystem\\BLL\\JobServices.cs",
+              "RelativeToolTip": "RenoSystem\\BLL\\JobServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T04:45:40.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RenosContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoSystem\\DAL\\RenosContext.cs",
+              "RelativeDocumentMoniker": "RenoSystem\\DAL\\RenosContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoSystem\\DAL\\RenosContext.cs",
+              "RelativeToolTip": "RenoSystem\\DAL\\RenosContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T04:35:34.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoSystem\\Class1.cs",
+              "RelativeDocumentMoniker": "RenoSystem\\Class1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoSystem\\Class1.cs",
+              "RelativeToolTip": "RenoSystem\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T04:25:03.962Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

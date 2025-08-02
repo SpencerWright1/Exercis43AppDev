@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\CSRenoSolution\RenoSystem\obj\Debug\net8.0\RenoSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\CSRenoSolution\RenoSystem\obj\Debug\net8.0\RenoSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\CSRenoSolution\RenoSystem\obj\Debug\net8.0\RenoSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\CSRenoSolution\RenoSystem\obj\Debug\net8.0\RenoSystem.AssemblyInfo.cs
+C:\Users\Admin\source\repos\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\CSRenoSolution\RenoSystem\obj\Debug\net8.0\RenoSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\CSRenoSolution\RenoSystem\obj\Debug\net8.0\RenoSystem.sourcelink.json
+C:\Users\Admin\source\repos\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\CSRenoSolution\RenoSystem\bin\Debug\net8.0\RenoSystem.deps.json
+C:\Users\Admin\source\repos\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\CSRenoSolution\RenoSystem\bin\Debug\net8.0\RenoSystem.dll
+C:\Users\Admin\source\repos\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\CSRenoSolution\RenoSystem\bin\Debug\net8.0\RenoSystem.pdb
+C:\Users\Admin\source\repos\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\CSRenoSolution\RenoSystem\obj\Debug\net8.0\RenoSystem.dll
+C:\Users\Admin\source\repos\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\CSRenoSolution\RenoSystem\obj\Debug\net8.0\refint\RenoSystem.dll
+C:\Users\Admin\source\repos\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\CSRenoSolution\RenoSystem\obj\Debug\net8.0\RenoSystem.pdb
+C:\Users\Admin\source\repos\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\CSRenoSolution\RenoSystem\obj\Debug\net8.0\ref\RenoSystem.dll
