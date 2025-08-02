@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RenoSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65c85ab42e3a83765f3e585baf5c9e96fa3e3973")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6561e659e48ad99bac69e640924df5f9c6d7a0b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("RenoSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RenoSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

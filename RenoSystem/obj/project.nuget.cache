@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rF9mEbwSAjo=",
+  "dgSpecHash": "F7ki6cB6tvg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoSystem\\RenoSystem.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Source\\Repos\\Exercis43AppDev\\RenoSystem\\RenoSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

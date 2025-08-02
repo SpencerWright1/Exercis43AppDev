@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoTracker\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RenoTracker.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RenoTracker.9yhucw2pne.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoTracker\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoTracker\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoTracker\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\cpsc-1517-may-OE01-MC-exercise-1-2-SpencerWright1\\CSRenoSolution\\RenoTracker\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RenoTracker.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RenoTracker.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RenoTracker.props",
+      "PackagePath": "build\\RenoTracker.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RenoTracker.props",
+      "PackagePath": "buildMultiTargeting\\RenoTracker.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RenoTracker.props",
+      "PackagePath": "buildTransitive\\RenoTracker.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

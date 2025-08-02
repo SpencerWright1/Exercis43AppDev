@@ -1,0 +1,77 @@
+﻿@page "/query"
+@inject RenoSystem.BLL.JobServices JobService
+@inject RenoSystem.BLL.SupplyServices SupplyService
+
+<h3>Supplies for Job</h3>
+
+<div>
+    <label>Job: </label>
+    <select @bind="selectedJobId">
+        <option value="">-- Select a job --</option>
+        @foreach (var job in jobs)
+        {
+            <option value="@job.JobId">
+                @job.Description (@job.StartDate.ToShortDateString()) - @job.Client.Contact
+            </option>
+        }
+    </select>
+    <button @onclick="FetchSupplies" disabled="@(!CanFetch)">Fetch</button>
+    <button @onclick="Clear" disabled="@(selectedJobId is null)">Clear</button>
+</div>
+
+@if (supplies != null)
+{
+    @if (supplies.Count > 0)
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Material</th>
+                    <th>Quantity</th>
+                    <th>Cost</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var supply in supplies)
+                {
+                    <tr>
+                        <td>@supply.Material</td>
+                        <td>@supply.Quantity</td>
+                        <td>@supply.MaterialCost.ToString("C")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No supplies found for this job.</p>
+    }
+}
+
+@code {
+    List<RenoSystem.Models.Job> jobs = new();
+    List<RenoSystem.Models.Supply> supplies = new();
+    int? selectedJobId;
+
+    protected override void OnInitialized()
+    {
+        jobs = JobService.Job_GetList();
+    }
+
+    bool CanFetch => selectedJobId.HasValue;
+
+    void FetchSupplies()
+    {
+        if (selectedJobId.HasValue)
+        {
+            supplies = SupplyService.GetByJobId(selectedJobId.Value);
+        }
+    }
+
+    void Clear()
+    {
+        selectedJobId = null;
+        supplies = new();
+    }
+}
